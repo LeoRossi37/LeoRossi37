@@ -11,7 +11,7 @@ Universidade Estadual Paulista "Júlio de Mesquita Filho"
 with interests in software developing, algorithms,
 web developing and systems.
 
-## 🛠️ Tecnologias
+## 🛠️ Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -19,7 +19,7 @@ web developing and systems.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Desenvolvimento Web
+### Web developing
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -29,13 +29,13 @@ web developing and systems.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🚀 Projetos
+## 🚀 Projects
 
 Projeto 1
 Projeto 2
 Projeto 3
 
-## 📫 Contato
+## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rossi-7478982b3/)
 
