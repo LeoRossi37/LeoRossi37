@@ -31,9 +31,9 @@ web developing and systems.
 
 ## 🚀 Projects
 
-Projeto 1
-Projeto 2
-Projeto 3
+[Projeto 1](https://github.com/LeoRossi37/Learning-C)
+[Projeto 2](https://github.com/LeoRossi37/Competitive-programming)
+[Projeto 3](https://github.com/LeoRossi37/Java-Studies)
 
 ## 📫 How to reach me
 
