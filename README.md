@@ -31,11 +31,11 @@ web developing and systems.
 
 ## 🚀 Projects
 
-![Learning C](https://github.com/LeoRossi37/Learning-C)
-
-![Competitive programming](https://github.com/LeoRossi37/Competitive-programming)
-
-![Java projects](https://github.com/LeoRossi37/Java-Studies)
+| Project | Description | Technologies |
+|:---:|:---|:---:|
+| 💻 [Learning C](https://github.com/LeoRossi37/Learning-C) | Exercises and projects developed while learning C/C++. | C++ / C |
+| 🧠 [Competitive Programming](https://github.com/LeoRossi37/Competitive-programming) | Solutions and training exercises from competitive programming. | C++ |
+| ☕ [Java Studies](https://github.com/LeoRossi37/Java-Studies) | Exercises and projects developed while studying Java and MySQL. | Java · MySQL |
 
 ## 📫 How to reach me
 
